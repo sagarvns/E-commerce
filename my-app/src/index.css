@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sagar{
+  background-color: #e3f2fd;
+}
